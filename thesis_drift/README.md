@@ -3,7 +3,7 @@
 Answers one question for each current holding: **should UCIMCO re-evaluate this
 position?** It re-pulls each company's newest 10-K/10-Q and checks whether the
 *specific assumptions and target metrics of that holding's original thesis*
-still hold. It is not a generic "what changed at this company" summarizer.
+still hold.
 
 ## Setup
 
